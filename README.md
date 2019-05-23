@@ -10,3 +10,5 @@ This project includes two parts:
   A random sample of the training set is used to explore the nature of the features (i.e., information provivded), and its relation to the label(i.e., whether a water well is functional). Decisions regarding data cleaing, feature selection, and feature engineering are made at the end of this part.
 - Model building<br>
   Execute data cleaing, feature selection, and feature engineering by writing customized functions or established packages. Several models are trained and the best performed models are fine tuned. Final model is used to make predictions for test set.
+  
+The final model makes accurate predictions 79.57% of the time.
